@@ -1,2 +1,3 @@
 https://blog.liushen.fun/atom.xml
 https://blog.zhheo.com/atom.xml
+https://2x.nz/rss.xml
